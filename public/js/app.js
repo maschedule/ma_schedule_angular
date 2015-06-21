@@ -1,0 +1,1 @@
+var maSchedule = angular.module('maSchedule', ['ngResource']);
